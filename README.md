@@ -9,4 +9,6 @@ which are specially handled on GitHub. These files will be referenced by organiz
 
 ## License
 
-Any code located in this repository is licensed under 
+All documentation within this repository is licensed under the CC-BY-4.0 license. 
+For futher details on what this entails, see the [LICENSE](./LICENSE) file and 
+[this](https://creativecommons.org/licenses/by/4.0/).
