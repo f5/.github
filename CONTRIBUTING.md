@@ -14,8 +14,11 @@ what actions will and will not be tolerated.
 
 In order to accept pull requests for F5 projects, we need you to submit a CLA, if you
 haven’t submitted one before, view the prompt given by the "@f5-cla-manager" bot when
-you first create a PR. Follow the bots instructions, and once you agree to the CLA, you
-should be good to go!
+you first create a PR. Follow the bots instructions, and once your response is sucessfully acknowledged 
+by the bot, your contributions will be accepted without additional action.
+
+If you do not receive a prompt from the bot, please contact the repository maintainers
+for further instructions on completing a required CLA.
 
 If are contributing on behalf of a corporation or other entity, and wish to setup a formal
 agreement directly between F5 and your company (i.e Schedule A approved contributors). Please
