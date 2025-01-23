@@ -78,21 +78,16 @@ such Contributions on behalf of the Entity. F5.
    third-party license or	other restriction of which You are personally aware and
    which are associated with any part of Your Contributions.
 
-6\. You	represent that each	of Your	Contributions is Your original creation. You
-      represent that Your Contribution submissions include complete details of any
-      third-party license or	other restriction of which You are personally aware and
-      which are associated with any part of Your Contributions.
-
-7\. Unless required by applicable law or agreed to in writing, You provide Your
+6\. Unless required by applicable law or agreed to in writing, You provide Your
    Contributions on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND,
    either express or implied, including, without limitation, any warranties or
    conditions of TITLE, NON-INFRINGEMENT, MERCHANTABILITY, or FITNESS FOR A
    PARTICULAR PURPOSE.
 
-8\. You agree to notify F5 of any facts or circumstances of which you become
+7\. You agree to notify F5 of any facts or circumstances of which you become
    aware that would make these representations inaccurate in any respect.
 
-9\. You agree that no compensation will be paid by F5 in exchange for your
+8\. You agree that no compensation will be paid by F5 in exchange for your
    Contribution. You further agree that F5 is under no obligation to post or use
    any Contribution you may provide and may remove any Contribution from any of its
    repositories at any time in F5's sole discretion.
